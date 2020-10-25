@@ -1,0 +1,3 @@
+cd domain
+javac *.java
+java TCustomer

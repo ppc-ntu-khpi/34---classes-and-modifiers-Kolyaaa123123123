@@ -1,5 +1,3 @@
-## Customer
-```
 
 public class Customer {
 
@@ -44,11 +42,3 @@ public class Customer {
     System.out.println("Total : " + total);
 } 
 }
- 
- ```
-
- ## done.png 
-![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-NastyaBrilova/blob/main/Solution/done.PNG)
-
-## Advanced
-![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-NastyaBrilova/blob/main/Solution/advanced.PNG)

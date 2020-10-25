@@ -53,3 +53,6 @@ public class Customer {
 
 ## advanced.png
 ![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-Kolyaaa123123123/blob/main/Solution/advanced.png)
+
+## Робота конструктора за замовчуванням
+![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-Kolyaaa123123123/blob/main/Solution/construct.png)

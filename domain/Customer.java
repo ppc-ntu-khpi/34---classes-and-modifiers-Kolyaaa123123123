@@ -28,11 +28,7 @@ public class Customer {
         this.total = total;
     }
       
-    public Customer(){
-    ID = 1;
-    isNew = true;
-    total = 1000;
-    }
+
 
   
     public void displayCustomerInfo() {

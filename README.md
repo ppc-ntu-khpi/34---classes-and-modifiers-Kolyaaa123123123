@@ -48,7 +48,7 @@ public class Customer {
  ```
 
  ## done.png 
-![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-NastyaBrilova/blob/main/Solution/done.PNG)
+![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-Kolyaaa123123123/blob/main/Solution/done.png)
 
 ## Advanced
-![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-NastyaBrilova/blob/main/Solution/advanced.PNG)
+![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-Kolyaaa123123123/blob/main/Solution/advanced.png)

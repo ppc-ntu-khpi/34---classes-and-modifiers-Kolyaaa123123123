@@ -1,4 +1,5 @@
-## Customer
+# Результат
+## Customer.java
 ```
 
 public class Customer {
@@ -50,5 +51,5 @@ public class Customer {
  ## done.png 
 ![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-Kolyaaa123123123/blob/main/Solution/done.png)
 
-## Advanced
+## advanced.png
 ![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-Kolyaaa123123123/blob/main/Solution/advanced.png)

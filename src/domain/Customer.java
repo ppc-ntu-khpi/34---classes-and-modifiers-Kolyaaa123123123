@@ -19,17 +19,27 @@ public class Customer {
 
 
     public void setID(int ID) {
+       if(ID>0){
        this.ID = ID;
+       }
+       else {
+         System.out.println("Error: ID 0> : " +ID+ "");
+       }
     }
     public void setIsNew(boolean isNew) {
         this.isNew = isNew;
     }
     public void setTotal(float total) {
-        this.total = total;
+        if(total>0){
+       this.total = total;
+       }
+       else {
+         System.out.println("Error: total : 0 > " +total+ "");
+       }
     }
       
     public Customer(){
-    ID = 1;
+    ID = 2;
     isNew = true;
     total = 1000;
     }

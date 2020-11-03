@@ -1,6 +1,6 @@
 # Результат
 ## Customer.java
-```
+```java
 
 public class Customer {
 
